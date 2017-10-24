@@ -1,10 +1,3 @@
-"""
-    Author: Florian Wellner
-    Created on: 18.10.2017
-    Last modified on: 19.10.2017
-    Python version: 3.4
-"""
-
 import sys
 
 from PySide import QtGui
